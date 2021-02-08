@@ -1,1 +1,1 @@
-[START](https://nevold.github.io/BreakoutGame/)
+[START GAME](https://nevold.github.io/BreakoutGame/)
